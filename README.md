@@ -1,7 +1,7 @@
 # Command format:
 ```
 py anl.py {old-file} {new-file} {width}
-    {old-file}, {new-file} = Names, including extensions, of text files to work with
+    {old-file}, {new-file} = Names, including file extensions, of text files to work with
     {width} = Integer specifying target line width.
 ```
     
