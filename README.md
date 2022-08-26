@@ -1,3 +1,6 @@
+# UPDATE
+If you somehow managed to haplessly stumble upon this repo, the `fmt` command in Linux is what you're looking for. Also, I now realize the stupidity of creating an interpreted script for a command line utility rather than a compiled one that can more naturally make use of environment variables. I may convert this to C++ in the future just for the heck of it...
+
 # Command format:
 ```
 py anl.py {old-file} {new-file} {width}
